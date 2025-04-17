@@ -1,4 +1,3 @@
-```markdown
 # WhatsApp Link Generator
 
 Generate a clean **click‑to‑chat** link—`https://wa.me/<number>`—in a single step.
@@ -20,8 +19,7 @@ const countries = [
   { name: 'Turkey', code: '90' },
   { name: 'United States', code: '1' },
   // …
-]
-```
+]```
+
 
 MIT License
-```
